@@ -1,1 +1,1 @@
-App database vào ạ
+Thầy ADD database vào ạ
